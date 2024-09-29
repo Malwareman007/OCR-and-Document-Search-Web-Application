@@ -1,4 +1,4 @@
-streamlit==1.12.0
+streamlit==1.37.0
 pytesseract==0.3.13
 gradio==4.44.0
 torch>=2.3.0
