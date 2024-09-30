@@ -28,8 +28,8 @@ This project is a web application built using Streamlit that utilizes Tesseract 
 
 ### Clone the Repository
 ```
-git clone https://github.com/Aryan8057/streamlit-ocr-app.git
-cd streamlit-ocr-app
+git clone https://github.com/Malwareman007/OCR-and-Document-Search-Web-Application.git
+cd OCR-and-Document-Search-Web-Application
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
